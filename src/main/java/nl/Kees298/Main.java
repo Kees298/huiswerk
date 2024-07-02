@@ -11,12 +11,16 @@ Letop: de HasMap heeft dus een "key" van het type String en een "value" van het 
 */
 package nl.Kees298;
 
+import java.util.HashMap;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
 
   public static void main(String[] args) {
+    HashMap<String, Integer> dictionary = new HashMap<String, Integer>();
     int[] arr = {42, 67, 35, 89, 24, 76, 58, 93, 7, 30, 83, 46, 13, 25, 98, 53, 17, 79, 57, 8};
+
 
 
 
