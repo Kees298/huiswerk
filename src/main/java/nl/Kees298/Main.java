@@ -16,6 +16,8 @@ package nl.Kees298;
 public class Main {
 
   public static void main(String[] args) {
+    int[] arr = {42, 67, 35, 89, 24, 76, 58, 93, 7, 30, 83, 46, 13, 25, 98, 53, 17, 79, 57, 8};
+
 
 
   }
